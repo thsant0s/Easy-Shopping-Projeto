@@ -10,5 +10,5 @@
   <br>
   - CSS
 
-![image](https://github.com/thsant0s/Projeto-easy-shopping/assets/138179715/2ec06d86-47fc-422c-8797-51297cd5868d)
+<img src="https://github.com/thsant0s/Projeto-easy-shopping/blob/main/img/Illustration-3-3.png?raw=true"/>
 
